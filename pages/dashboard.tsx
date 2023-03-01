@@ -34,7 +34,7 @@ const columns: GridColDef[] = [
   },
   {
     field: "amount",
-    headerName: "Amount",
+    headerName: "Address",
     description: "This column has a value getter and is not sortable.",
     flex: 1,
   },
